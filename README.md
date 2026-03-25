@@ -1,4 +1,4 @@
-# Wolf-Ziege-Kohl Problem (Java)
+# Wolf Ziege Kohl Problem (Java)
 
 ## Beschreibung
 Dieses Projekt implementiert das klassische Logikrätsel „Wolf, Ziege und Kohl“. Ziel ist es, alle drei sicher von einem Flussufer auf das andere zu bringen, ohne dass die Ziege vom Wolf oder der Kohl von der Ziege gefressen wird.
